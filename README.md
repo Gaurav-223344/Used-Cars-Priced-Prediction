@@ -1,6 +1,5 @@
 # Used Vehicle Priced Prediction
 
-# Delhi-House-Price-Prediction
 
 ## Table of Content
   * [Overview](#overview)
